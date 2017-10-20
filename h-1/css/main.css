@@ -1,0 +1,14 @@
+
+#box_1 {
+	width:800px;
+	height:1000px;
+	background: #ee3e64;
+}
+#box_2 {
+	position: absolute;
+  top: 5px;
+	left: 800px;
+	width:2000px;
+	height:1000px;
+	background: #ebde52;
+}
